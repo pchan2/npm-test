@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "dependencies": {
-    "http-server": "^0.12.3"
-  },
-
+  "dependencies": {},
   "scripts": {
     "start": "http-server -o ."
+  },
+  "devDependencies": {
+    "http-server": "^0.12.3"
   }
 }
